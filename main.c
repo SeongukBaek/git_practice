@@ -5,4 +5,5 @@ void main(){
 
 	scanf("%d", &n);
 	printf("n: %d\n",n);
+	printf("---main.c---");
 }
