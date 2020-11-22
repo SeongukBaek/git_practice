@@ -1,5 +1,4 @@
 # git_practice
-System Programming
 
 Practice Version for System Programming
 
