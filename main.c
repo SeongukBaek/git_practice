@@ -6,4 +6,5 @@ void main(){
 	scanf("%d", &n);
 	printf("n: %d\n",n);
 	printf("---main.c---");
+	printf("Jeong, Jae Woong comitted");
 }
